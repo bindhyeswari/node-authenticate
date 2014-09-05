@@ -1,0 +1,9 @@
+{
+    "name": "node-authenticate",
+    "version": "2.1.1",
+    "main": "dist/jquery.js",
+    "dependencies": {
+        "foundation": "latest"
+    }
+
+}
